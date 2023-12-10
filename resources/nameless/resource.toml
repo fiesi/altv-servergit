@@ -1,0 +1,6 @@
+client-type = "js"
+client-main = "client/Dist/startup.js"
+client-files = [
+    "client/Dist/*",
+    "client/webviews/*",
+]

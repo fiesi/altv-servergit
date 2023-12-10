@@ -1,0 +1,10 @@
+# Directories
+**/node_modules
+**/obj
+**/.vs
+cache
+.server-crashes-cache
+
+# Files
+server.log
+**/package-lock.json
